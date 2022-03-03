@@ -1,2 +1,2 @@
 # CCO-EE
-Cookie Clicker Enhanced Edition
+Cookie Clicker Online Enhanced Edition
