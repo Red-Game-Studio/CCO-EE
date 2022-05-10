@@ -1,0 +1,1 @@
+console.log "CCO By RedBigz. (Cookie Clicker is made by Orteil, not me.)"
