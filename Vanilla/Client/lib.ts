@@ -24,8 +24,10 @@ interface ServerResponse {
 interface NetworkInterface {
     send(data: Data): Promise<ServerResponse>;
     wait(): Promise<ServerResponse>;
+    socket: WebSocket;
 }
 
+// @ts-ignore
 class Network implements NetworkInterface {
     socket: WebSocket;
 
