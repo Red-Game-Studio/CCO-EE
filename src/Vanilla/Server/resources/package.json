@@ -1,0 +1,11 @@
+{
+  "name": "cco-ds",
+  "version": "1.0.0",
+  "description": "Vanilla CCO Server",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "author": "RedBigz",
+  "license": "MIT"
+}
